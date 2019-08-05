@@ -1,5 +1,5 @@
-# DrumSet
-
+# DrumKit
+![DrumKit](./images/drumkitproject.png)
 ## Built with:
 *HTML
 *JavaScript
